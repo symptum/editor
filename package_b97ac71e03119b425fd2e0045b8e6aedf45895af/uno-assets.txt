@@ -1,0 +1,28 @@
+splash_screen.png
+splash_screen.scale-100.png
+splash_screen.scale-125.png
+splash_screen.scale-150.png
+splash_screen.scale-200.png
+splash_screen.scale-300.png
+splash_screen.scale-400.png
+icon-128.png
+icon-16.png
+icon-32.png
+icon-512.png
+Unomanifest.webmanifest
+manifest.webmanifest
+Uno.Fonts.Fluent/Fonts/uno-fluentui-assets.ttf
+Symptum.Editor/Assets/Books/First Year Books.csv
+Symptum.Editor/Assets/Books/Second Year Books.csv
+Symptum.Editor/Assets/SharedAssets.md
+Symptum.Editor/Assets/Icons/back.png
+Symptum.Editor/Assets/Icons/back.scale-100.png
+Symptum.Editor/Assets/Icons/back.scale-125.png
+Symptum.Editor/Assets/Icons/back.scale-150.png
+Symptum.Editor/Assets/Icons/back.scale-200.png
+Symptum.Editor/Assets/Icons/back.scale-300.png
+Symptum.Editor/Assets/Icons/back.scale-400.png
+Assets/Books/First Year Books.csv
+Assets/Books/Second Year Books.csv
+manifest.webmanifest
+Symptum.Editor.Wasm.exe
