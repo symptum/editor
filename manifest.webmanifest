@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "Online Editor for the Symptum Project",
+  "display": "standalone",
+  "name": "Symptum Web Editor",
+  "short_name": "Symptum Editor",
+  "start_url": "/editor/index.html",
+  "theme_color": "#000000",
+  "scope": "/editor/",
+  "icons": [
+    {
+      "src": "package_1e4b4af83e8d8ff3c1bf4ccf356fc465891008bd/icon_transparent-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "package_1e4b4af83e8d8ff3c1bf4ccf356fc465891008bd/icon_transparent-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "package_1e4b4af83e8d8ff3c1bf4ccf356fc465891008bd/icon_transparent-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "package_1e4b4af83e8d8ff3c1bf4ccf356fc465891008bd/icon_transparent-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
